@@ -29,7 +29,7 @@ xm
 mean(x, trim = 0.10)
 x=c(1,1,1,1,5,5,5,5,7,7)
 mean(x)
-mean(x, trim=.3)
+?mean(x, trim=.3)
 x=c(1,5,5)
 mean(x)
 c(mean(x), mean(x, trim = 0.10))
